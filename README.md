@@ -1,2 +1,2 @@
 # util-archive
-Utility archie for easy but  nice codes
+Archive for nice codes can help u.
