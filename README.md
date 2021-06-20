@@ -1,2 +1,2 @@
 # util-archive
-Archive for nice stuff.
+ This archive contains small files that used during development.
