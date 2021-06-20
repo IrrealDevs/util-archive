@@ -1,0 +1,6 @@
+function isIP(ip) {
+        let res = true
+        if(!ip instanceof String) return false
+        if(!ip.split('.').length == 4) res = false
+        return res
+    }
